@@ -1,0 +1,6 @@
+dallas
+paris
+moscow
+nyc
+moscow
+istanbul
